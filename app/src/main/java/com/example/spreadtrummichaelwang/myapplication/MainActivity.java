@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d("michael","test");
+        Log.d("michael","to test git add command to git hub");
     }
 }
