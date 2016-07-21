@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d("michael","test");
         Log.d("michael","to test git add command to git hub");
         Log.d("michael","33333");
+        Log.d("michael","new test");
     }
 }
